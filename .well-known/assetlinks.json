@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ndocare.app",
+      "sha256_cert_fingerprints": [
+        "E3:C7:90:DE:52:BA:1A:DD:01:5B:12:DE:4C:1A:26:2A:17:DD:25:B3:90:AA:18:0C:C3:F9:8A:FD:1C:AB:D6:C8"
+      ]
+    }
+  }
+]

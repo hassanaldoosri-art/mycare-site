@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["7PJC7A488R.com.ndocare.app"],
+        "components": [
+          { "/": "/_expo/*", "exclude": true },
+          { "/": "/assets/*", "exclude": true },
+          { "/": "*" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["7PJC7A488R.com.ndocare.app"]
+  }
+}
